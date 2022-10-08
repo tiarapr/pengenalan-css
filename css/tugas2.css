@@ -1,0 +1,5 @@
+.gradient-box {
+    width: 100%;
+    height: 100px;
+    background-image: linear-gradient(#2E2E2E, rgb(5, 9, 125), blue);
+}
